@@ -1,0 +1,78 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://super.abril.com.br/wp-content/uploads/2003/08/everest.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#aretha {
+    height: 100%;
+}
+
+#aretha {
+    background: url("https://emc.acidadeon.com/dbimagens/aretha_duarte_1024x576_17052021203405.webp")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#sonhos {
+    height: 100%;
+}
+
+#sonhos {
+    background: url("https://cdn.vezdavoz.com.br/wp-content/uploads/2019/04/shutterstock_394395106.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#mental {
+    height: 100%;
+}
+
+#mental {
+    background: url("https://startupi.com.br/wp-content/uploads/2020/06/sa%C3%BAde-mental_372656629-1500x750-1.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.top-nav-collapse {
+  background-color: #24355C;
+}
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse) {
+    background-color: #24355C;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  .navbar:not(.top-nav-collapse) {
+    background-color: #24355C;
+  }
+}
+
+.icon-right {
+
+    position: absolute;
+	
+    right: 10px;
+	width: 70px;
+	height: 70px;
+
+	border-radius: 50%;
+}
