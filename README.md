@@ -6,19 +6,6 @@
 
 <h3 align=center>Website feito para a demonstração do projeto integrador da turma aprendizagem 91</h3>
 
-
-<p align="center">
-  <a href="#about">About</a>
-  •
-  <a href="#Features">Features</a>
-  •
-  <a href="https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/INSTALLATION.md">Installation</a>
-  •
-  <a href="#license">License</a>
-  •
-  <a href="#credits">Credits</a>
-</p>
-
 ## ❓ SOBRE
 
 Esse website foi criado e utilizado de um template de um repositório, utilizando configurações e ajuste para o website. Portanto, esse websiteé uso para aprendizagem em HTML, CSS e JAVASCRIPT, não tem objetivo de retorno lucrativo, porém, um desenvolvimento em FRONT-END. Esse repositório permanecerá aberto para aprendizagem e reconhecimento.
@@ -38,5 +25,5 @@ Um website que exibe nosso projeto integrador sobre **SONHOS**, separado e inspi
 Usa website foi utilizado de suas configurações de design e configurações, refeito de um repositório de um template de website:
 
 * **[Landing-page-html-bootstrap-template](https://github.com/fjerbi/Landing-page-html-bootstrap-template)** - Website template.
-* **Website criado** - Website.
+* **[Website criado](https://downzin01.github.io/aprendizagen91/)** - Website.
 
