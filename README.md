@@ -8,7 +8,7 @@
 
 ## ❓ SOBRE
 
-Esse website foi criado e utilizado de um template de um repositório, utilizando configurações e ajuste para o website. Portanto, esse websiteé uso para aprendizagem em HTML, CSS e JAVASCRIPT, não tem objetivo de retorno lucrativo, porém, um desenvolvimento em FRONT-END. Esse repositório permanecerá aberto para aprendizagem e reconhecimento.
+Esse website foi criado e utilizado de um template de um repositório, utilizando configurações e ajuste para o website. Portanto, esse websiteé uso para aprendizagem em HTML, CSS e JAVASCRIPT, não tem objetivo de retorno lucrativo, porém, um desenvolvimento pessoal e educativo. Esse repositório permanecerá aberto para aprendizagem e reconhecimento.
 
 ## ❗ O QUE FALA?
 
